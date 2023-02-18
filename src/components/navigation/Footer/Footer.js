@@ -130,7 +130,8 @@ function Footer(){
 
             <div className="flex items-center">
                 <p className="copyright-text mr-4">Mad Mex </p>
-                <a href="https://github.com/Mad-Mex/nft_paradise"> <i className="fa fa-github text-2xl
+                <a href="https://github.com/Mad-Mex/nft_paradise" target="_blank" rel="noopener noreferrer"> 
+                <i className="fa fa-github text-2xl
                 text-white"> </i> </a>    
             </div>
                 
