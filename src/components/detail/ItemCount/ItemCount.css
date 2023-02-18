@@ -1,0 +1,15 @@
+/*Estilos Personalizados*/
+
+.quantity-button-layout{
+    @apply w-9 h-9 bg-grayish1 font-medium text-2xl text-basic text-center 
+    rounded-[0.625rem] transition hover:translate-y-[0.4rem] duration-300 ;
+}
+
+.button-layout2{
+    @apply w-[11.375rem] h-[2.7rem] font-normal text-base rounded-lg; 
+}
+
+.button-hover{
+    @apply  hover:translate-y-0.5 transition duration-200
+}
+

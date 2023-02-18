@@ -1,0 +1,7 @@
+/*Estilos personalizados*/
+
+.header-landing{
+    @apply mt-14 ml-14 mb-9 font-sans2 font-medium text-2xl text-basic;
+}
+
+

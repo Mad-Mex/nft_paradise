@@ -1,0 +1,15 @@
+/*Estilos Personalizados*/
+
+.nft-card{
+    @apply pb-4 rounded-lg shadow-2xl cursor-pointer hover:brightness-75 hover:translate-y-2 
+    transition duration-300;
+}
+
+.nft-card-title{
+    @apply mt-[0.625rem] font-normal text-[0.75rem] text-tertiary;
+}
+
+.nft-card-details{
+    @apply font-medium text-[0.9375rem] text-basic;
+}
+

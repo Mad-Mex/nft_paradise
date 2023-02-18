@@ -1,0 +1,17 @@
+/*Estilos Personalizados*/
+
+.cart-container-title{
+    @apply font-normal text-base text-grayish3;
+}
+
+.cart-container-item{
+    @apply flex items-center justify-center;
+}
+
+.cart-item{
+    @apply font-normal text-sm text-grayish5;
+    }
+
+.cart-summary-text{
+    @apply font-normal text-base text-grayish4;
+    }

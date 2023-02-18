@@ -1,0 +1,11 @@
+/*Estilos personalizados*/
+
+.button-layout{
+    @apply w-28 h-9 mr-5 rounded-lg hover:opacity-90 hover:translate-y-0.5 transition duration-200 ; 
+}
+
+
+.button-hover{
+    @apply hover:opacity-90 hover:translate-y-0.5 transition duration-200
+}
+

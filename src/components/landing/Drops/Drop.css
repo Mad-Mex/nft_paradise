@@ -1,0 +1,13 @@
+/*Estilos personalizados*/
+
+.drop-text{
+    @apply ml-14 font-normal text-sm text-white leading-7; 
+}
+
+.drop-card-title{
+    @apply mt-2 font-medium text-base text-tertiary;
+}
+
+.drop-card-text{
+    @apply mt-1 font-medium text-base text-basic;
+}

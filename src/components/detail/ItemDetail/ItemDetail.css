@@ -1,0 +1,22 @@
+/*Estilos personalizados*/
+
+.subtitle-item-detail{
+    @apply font-normal text-base text-tertiary; 
+}
+
+
+.container-layout{
+    @apply flex items-center w-[33rem] h-16 mb-5 border border-tertiaryLight 
+    rounded-[0.625rem]; 
+}
+
+
+.container-text{
+    @apply mr-3 ml-8 font-medium text-[1.125rem] text-tertiary;
+}
+
+
+.container-icon{
+    @apply  text-2xl text-tertiary;
+}
+

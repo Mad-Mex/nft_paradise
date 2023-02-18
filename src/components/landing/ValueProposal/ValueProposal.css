@@ -1,0 +1,19 @@
+/*Estilos personalizados*/
+
+.container{
+    @apply w-[30%] h-[31rem];
+}
+
+.container-title{
+    @apply relative w-12 pt-2 font-medium text-sm text-white leading-[1.47rem]  border-t-2
+     border-t-white -translate-y-[28.5rem];
+}
+
+.container-text{
+    @apply w-60 font-normal text-xs text-white text-center leading-[1.35rem] opacity-90;
+}
+
+.image-feature{
+    @apply h-full rounded-lg transition duration-700;
+}
+

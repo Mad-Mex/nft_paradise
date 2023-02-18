@@ -1,0 +1,6 @@
+/*Estilos Personalizados*/
+
+.navbar-link{
+    @apply mr-16 font-sans2 font-semibold text-[0.9375rem] text-white  hover:text-secondary ; 
+}
+

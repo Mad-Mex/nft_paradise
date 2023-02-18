@@ -1,0 +1,34 @@
+/*Estilos Personalizados*/
+
+.footer-container{
+    @apply ml-[7rem] pt-8 text-white;
+}
+
+
+.footer-title{
+    @apply mb-5 font-sans2 font-semibold text-lg;
+}
+
+
+.footer-link{
+    @apply mb-4 font-sans2 font-medium text-sm; 
+}
+
+
+.footer-link-bottom{
+    @apply mb-10 font-sans2 font-medium text-sm; 
+}
+
+
+.social-media-logo{
+    @apply w-8 h-8 mr-6 rounded-full;
+}
+
+
+.copyright-text{
+    @apply font-sans2 font-medium text-sm text-white;
+}
+
+
+
+
